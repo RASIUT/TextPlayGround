@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextPlayGround/static/css/main.e6c13ad2.css",
+    "main.js": "/TextPlayGround/static/js/main.505a3aac.js",
+    "static/js/453.496fbc09.chunk.js": "/TextPlayGround/static/js/453.496fbc09.chunk.js",
+    "index.html": "/TextPlayGround/index.html",
+    "main.e6c13ad2.css.map": "/TextPlayGround/static/css/main.e6c13ad2.css.map",
+    "main.505a3aac.js.map": "/TextPlayGround/static/js/main.505a3aac.js.map",
+    "453.496fbc09.chunk.js.map": "/TextPlayGround/static/js/453.496fbc09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.505a3aac.js"
+  ]
+}
